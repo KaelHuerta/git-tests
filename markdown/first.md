@@ -23,3 +23,12 @@ número de columnas así como el de renglones por archivo, que son los siguiente
      709 Columnas=11 third_class.csv
     1310 Columnas=14 titanic3.csv
      432 Columnas=13 victualling.csv
+
+
+~~~
+- [ ] Probando de nuevo
+- [ ] Usar los *checkboxes*
+[ ] De nuevo falló
+~~~
+
+[ ] ¿Y en Chrome?
